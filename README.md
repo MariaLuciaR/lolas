@@ -10,6 +10,7 @@ This project is an assignment from [SuperHi's](https://www.superhi.com/courses/h
 ![screenshot]()
 
 ## Live Demo
+https://marialuciar.github.io/lolas/
 
 ## Authors
 
