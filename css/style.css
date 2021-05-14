@@ -98,16 +98,18 @@ nav{
   margin: 0;
   font-size: 26px;
 }
+
 .food p {
   width: 400px;
   padding: 0 60px 15px 80px;
   font-size: 18px;
+}
 
 /* Footer */
 
 footer {
   padding: 20px;
-  color: #2F6A49;
+  color:  #2F6A49;
   background-color: #FFB6C4;
 }
 
