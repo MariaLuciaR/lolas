@@ -52,6 +52,7 @@ nav{
   max-width: 850px;
   font-size: 90px;
 }
+/* About */
 
 .about {
   background-color: #FFB6C4;
@@ -60,7 +61,6 @@ nav{
   color: #2F6A49;
   text-align: center;
   font-weight: 500;
-  
 }
 
 .about h3 {
@@ -75,8 +75,21 @@ nav{
   width: 800px;
   padding-bottom: 102px;
   text-align: center;
-  
 }
+
+/* Food */
+
+.food h3 {
+  width: 269px;
+}
+
+
+
+
+
+
+
+
 
 /* Utilities */
 
