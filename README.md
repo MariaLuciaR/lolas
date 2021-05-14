@@ -1,6 +1,6 @@
 # lolas
 
-This project is an assignment from [SuperHi's](www.superhi.com) Foundation HTML, CSS + Javascript course. The following description comes from the course's third-week homework:
+This project is an assignment from [SuperHi's](https://www.superhi.com/courses/html-css-javascript-foundation) Foundation HTML, CSS + Javascript course. The following description comes from the course's third-week homework:
 
 > Lola’s Cookery School
 > A vivid colour palette and bold typography are what’s in store for this week’s project. It’s been conceptualised and designed by London based graphic and digital designer Meara Withe ([website](http://www.mearawithe.com/) and [Twitter](https://twitter.com/mearawithe)). This website is a very lively one, it’s a real fun and visually striking one to work on!
