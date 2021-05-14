@@ -34,6 +34,26 @@ nav{
   margin-top: 5px;
 }
 
+/* Hero */
+
+.hero {
+  font-weight: 500;
+  color: #FE5504;
+  padding: 275px 0;
+  text-align: center;
+  margin: 0 auto;
+  background-image: url("../assets/header-background.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.hero h2 {
+  margin: 0 auto;
+  max-width: 850px;
+  font-size: 90px;
+}
+
 /* Utilities */
 
 .col-l {
