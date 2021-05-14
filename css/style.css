@@ -83,13 +83,17 @@ nav{
   width: 269px;
 }
 
+/* Footer */
 
+footer {
+  padding: 20px;
+  color: #2F6A49;
+  background-color: #FFB6C4;
+}
 
-
-
-
-
-
+footer p {
+  margin: 5px 0 0;
+}
 
 /* Utilities */
 
