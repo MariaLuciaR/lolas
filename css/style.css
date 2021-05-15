@@ -92,6 +92,7 @@ nav{
   width: 50%;
 }
 
+
 .food h3 {
   padding: 65px 275px 0 80px;
   width: 269px;
@@ -104,6 +105,14 @@ nav{
   padding: 0 60px 15px 80px;
   font-size: 18px;
 }
+
+/* Gallery */
+
+.gallery img {
+  width: 33.33%;
+  float: left;
+}
+
 
 /* Footer */
 
