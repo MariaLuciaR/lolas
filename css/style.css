@@ -56,7 +56,6 @@ nav{
 
 .about {
   background-color: #FFB6C4;
-  width: 100%;
   color: #2F6A49;
   text-align: center;
   font-weight: 500;
@@ -87,19 +86,20 @@ nav{
 
 .food-text,
 .food img {
-  width: 50%;
+  max-width: 50%;
 }
 
+.food-text {
+  padding: 65px 0 65px 80px;
+}
 
 .food h3 {
-  padding: 65px 275px 0 80px;
-  margin: 0;
+  margin: 0 0 18px;
   font-size: 26px;
 }
 
 .food p {
   max-width: 400px;
-  padding: 0 60px 15px 80px;
   font-size: 18px;
 }
 /* Quote */
@@ -125,7 +125,7 @@ blockquote {
 /* Gallery */
 
 .gallery img {
-  width: 33.33%;
+  max-width: 33.33%;
   float: left;
 }
 
@@ -198,7 +198,7 @@ footer p {
 @media (max-width: 1030px) {
   .food-text,
   .food img {
-    width: 100%;
+    max-width: 100%;
   } 
 
   .find-us {
@@ -227,6 +227,70 @@ footer p {
     display: block;
     margin: 0 auto 24px !important;
 
+  }
+}
+
+@media (max-width: 590px) {
+  body {
+    font-size: 16px;
+  }
+  
+  header .col-l,
+  header .col-r {
+    float: none;
+  }
+
+  header a {
+    margin-left: 15px;
+  }
+
+  header a:first-child {
+    margin-left: 0;
+  }
+
+  .hero {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .hero h2 {
+    font-size: 30px;
+    line-height: 1.1;
+  }
+
+  .about {
+    padding: 0 25px;
+  }
+  
+  .about h3 {
+    font-size: 30px;
+    line-height: 1.1;
+  }
+
+  .about p {
+    font-size: 16px;
+  }
+
+  .food-text {
+    padding: 65px 25px;
+  }
+
+  .quote {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .quote p {
+    font-size: 30px;
+  }
+
+  .gallery img {
+    max-width: 100%;
+  }
+
+  footer .col-l,
+  footer .col-r {
+    float: none;
   }
 }
 
