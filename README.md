@@ -7,7 +7,7 @@ This project is an assignment from [SuperHi's](https://www.superhi.com/courses/h
 >
 > Note: we recommend listening to [The Kinks 1969 classic Lola](https://www.youtube.com/watch?v=LemG0cvc4oU) whilst working on this project.
 
-![screenshot]()
+![screenshot](./assets/screenshot.png)
 
 ## Live Demo
 https://marialuciar.github.io/lolas/
